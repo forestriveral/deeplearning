@@ -73,15 +73,62 @@
 #         print(car.title())
 
 # print((22 >= 21) and (18 >= 21))
-requested_toppings = ["mushroom", "green peppers"]
-if requested_toppings:
-    for requested_topping in  requested_toppings:
-        print("Adding " + requested_topping + ".")
-    print("\nFinished making your pizza!")
-else:
-    print("Are you sure you want a plain pizza?")
+# requested_toppings = ["mushroom", "green peppers"]
+# if requested_toppings:
+#     for requested_topping in  requested_toppings:
+#         print("Adding " + requested_topping + ".")
+#     print("\nFinished making your pizza!")
+# else:
+#     print("Are you sure you want a plain pizza?")
 
+# favorite_languages = {
+#     'jen': 'python',
+#     'sarah': 'c',
+#     'edward': 'ruby',
+#     'phil': 'python',
+#     }
 
+# print(favorite_languages.keys())
+# for name in sorted(favorite_languages.keys()):
+#     print(name.title() + ", thank you for talking the poll.")
+#
+# friends = ['phil', 'sarah']
+# for name in favorite_languages.keys():
+#     print(name.title())
+#
+#     if name in friends:
+#         print("  Hi " + name.title() +
+#               ", I see your favorite languages is " +
+#               favorite_languages[name].title() + "!")
+
+# print("The following languages have been mentioned:")
+# for language in set(favorite_languages.values()):
+#     print(language.title())
+
+aliens = []
+
+for alien_number in range(0, 30):
+    new_alien = {'color': 'green', 'points': 5, 'speed': 'slow'}
+    aliens.append(new_alien)
+
+# for alien in aliens[:5]:
+#     print(alien)
+# print("......")
+# print("Total number of aliens: " + str(len(aliens)))
+
+for alien in aliens[0:3]:
+    if alien['color'] == 'green':
+        alien['color'] = 'yellow'
+        alien['speed'] = 'medium'
+        alien['points'] = 10
+    elif alien['color'] == 'yellow':
+        alien['color'] = 'red'
+        alien['speed'] = 'fast'
+        alien['points'] = 15
+
+for alien in aliens[0:5]:
+    print(alien)
+print("......")
 
 
 
