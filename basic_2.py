@@ -1,6 +1,7 @@
 
 
-# prompt = "If you tell us who you are, we can personalize the messages you see."
+# prompt = "If you tell us who you are, we can
+# personalize the messages you see."
 # prompt += "\nWhat is your first name? \n>>>"
 #
 # name = input(prompt)
@@ -34,7 +35,8 @@
 #     name = input("\nWhat is your name? \n>>>")
 #     response = input("Which mountain would you like to climb someday? \n>>>")
 #     responses[name] = response
-#     repeat = input("Would you like to let another person respond? (yes/no) \n>>>")
+#     repeat = input("Would you like to let another person respond?
+# (yes/no) \n>>>")
 #     if repeat =='no':
 #         polling_active = False
 # print("\n--- Poll Results ---")
@@ -89,13 +91,4 @@ def make_pizza(size, *args):
         print("- ", arg)
 make_pizza(16, 'pepperoni')
 make_pizza(16, 'pepperoni', 'mushroom', "green peppers", "extra cheese")
-
-
-
-
-
-
-
-
-
 
