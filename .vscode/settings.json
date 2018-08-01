@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "/home/forestriveral/anaconda3/envs/tensorflow/bin/python",
+    "code-runner.executorMap": {
+        "python": "$pythonPath $fullFileName"
+    },
+    "code-runner.defaultLanguage": "python",
+    "code-runner.clearPreviousOutput": true,
+    //"code-runner.cwd": "$workspaceRoot"
+}
