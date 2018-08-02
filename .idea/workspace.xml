@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6fb47dd5-984f-4caa-9c15-3b7a5bb863af" name="Default" comment="delete">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/tasks.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/tasks.json" afterDir="false" />
-    </list>
+    <list default="true" id="6fb47dd5-984f-4caa-9c15-3b7a5bb863af" name="Default" comment="vs code configure" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,16 +9,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/deeplearning$chapter_10.coverage" NAME="chapter_10 Coverage Results" MODIFIED="1533042372897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/deeplearning$Data_download.coverage" NAME="Data_download Coverage Results" MODIFIED="1533107088045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/deeplearning$basic_2.coverage" NAME="basic_2 Coverage Results" MODIFIED="1533193675743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/deeplearning$practice_2.coverage" NAME="practice_2 Coverage Results" MODIFIED="1532953426302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/deeplearning$figure_1.coverage" NAME="figure_1 Coverage Results" MODIFIED="1533213426925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/deeplearning$practice_3.coverage" NAME="practice_3 Coverage Results" MODIFIED="1532957518474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/deeplearning$basic_1.coverage" NAME="basic_1 Coverage Results" MODIFIED="1533007622002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/deeplearning$chapter_10.coverage" NAME="chapter_10 Coverage Results" MODIFIED="1533042372897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/deeplearning$chapter_9.coverage" NAME="chapter_9 Coverage Results" MODIFIED="1533040206132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/deeplearning$basic_3.coverage" NAME="basic_3 Coverage Results" MODIFIED="1533087976759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/deeplearning$basic_2.coverage" NAME="basic_2 Coverage Results" MODIFIED="1533181301012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/deeplearning$practice_2.coverage" NAME="practice_2 Coverage Results" MODIFIED="1532953426302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/deeplearning$practice_3.coverage" NAME="practice_3 Coverage Results" MODIFIED="1532957518474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/deeplearning$btc_json.coverage" NAME="btc_json Coverage Results" MODIFIED="1533109581190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/deeplearning$basic_4.coverage" NAME="Random_walker Coverage Results" MODIFIED="1533119275353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/deeplearning$basic_1.coverage" NAME="basic_1 Coverage Results" MODIFIED="1533007622002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/deeplearning$basic_4.coverage" NAME="basic_4 Coverage Results" MODIFIED="1533200993086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/deeplearning$practice_1.coverage" NAME="practice_1 Coverage Results" MODIFIED="1532940698297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/deeplearning$Pygal_plot.coverage" NAME="Pygal_plot Coverage Results" MODIFIED="1533100449056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -42,14 +39,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="csv" value="3" />
+          <entry key="csv" value="4" />
           <entry key="gitignore" value="1" />
           <entry key="ipynb" value="1" />
           <entry key="json" value="4" />
           <entry key="learning_python" value="1" />
           <entry key="md" value="1" />
           <entry key="png" value="1" />
-          <entry key="py" value="24" />
+          <entry key="py" value="27" />
           <entry key="svg" value="1" />
           <entry key="txt" value="3" />
           <entry key="xml" value="1" />
@@ -62,24 +59,24 @@
           <entry key="Image" value="1" />
           <entry key="JSON" value="4" />
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="24" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Python" value="27" />
           <entry key="SVG" value="1" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="42" />
+          <entry key="Python Console" value="119" />
           <entry key="dummy" value="25" />
-          <entry key="py" value="14468" />
-          <entry key="txt" value="87" />
+          <entry key="py" value="15843" />
+          <entry key="txt" value="106" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="112" />
-          <entry key="Python" value="14510" />
+          <entry key="PLAIN_TEXT" value="131" />
+          <entry key="Python" value="15962" />
         </counts>
       </usages-collector>
     </session>
@@ -87,21 +84,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic_2.py">
+        <entry file="file://$PROJECT_DIR$/basic_4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1583">
-              <caret line="89" column="20" lean-forward="true" selection-start-line="89" selection-start-column="20" selection-end-line="89" selection-end-column="20" />
+            <state relative-caret-position="66">
+              <caret line="3" column="19" lean-forward="true" selection-start-line="1" selection-end-line="3" selection-end-column="19" />
+              <folding>
+                <element signature="e#1#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Random_walker.py">
+        <entry file="file://$PROJECT_DIR$/figure_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="59" column="11" lean-forward="true" selection-start-line="59" selection-start-column="11" selection-end-line="59" selection-end-column="11" />
+            <state relative-caret-position="637">
+              <caret line="115" column="10" lean-forward="true" selection-start-line="115" selection-start-column="10" selection-end-line="115" selection-end-column="10" />
               <folding>
-                <element signature="e#1#32#0" expanded="true" />
+                <element signature="e#2#20#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -130,16 +130,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Pygal_plot.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/basic_2.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/basic_3.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Highs_lows.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/chapter_9.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/practice_1.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/btc_json.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/practice_2.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Random_walker.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/basic_4.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/practice_3.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Pygal_plot.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Highs_lows.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/chapter_9.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/figure_1.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/basic_1.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
@@ -154,13 +156,14 @@
         <option value="$PROJECT_DIR$/learning_python.txt" />
         <option value="$PROJECT_DIR$/chapter_10.py" />
         <option value="$PROJECT_DIR$/basic_3.py" />
-        <option value="$PROJECT_DIR$/basic_4.py" />
         <option value="$PROJECT_DIR$/Pygal_plot.py" />
         <option value="$PROJECT_DIR$/Data_download.py" />
         <option value="$PROJECT_DIR$/Highs_lows.py" />
         <option value="$PROJECT_DIR$/btc_json.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/basic_2.py" />
+        <option value="$PROJECT_DIR$/basic_4.py" />
+        <option value="$PROJECT_DIR$/figure_1.py" />
       </list>
     </option>
   </component>
@@ -191,6 +194,10 @@
               <item name="deeplearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="deeplearning" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="deeplearning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -203,7 +210,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$/.ssh/id_rsa" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.toDoOptions" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -214,12 +221,12 @@
     </option>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/dataset" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/dataset" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dataset" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -234,51 +241,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.basic_2">
-    <configuration name="Data_download" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="deeplearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Highs_lows.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Pygal_plot" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="deeplearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pygal_plot.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.figure_1">
     <configuration name="Random_walker" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="deeplearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -323,6 +286,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="basic_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="deeplearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="btc_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="deeplearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -337,6 +322,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/btc_json.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="figure_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="deeplearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/figure_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -371,18 +378,18 @@
       <item itemvalue="Python.practice_2" />
       <item itemvalue="Python.practice_3" />
       <item itemvalue="Python.Random_walker" />
-      <item itemvalue="Python.Pygal_plot" />
-      <item itemvalue="Python.Data_download" />
       <item itemvalue="Python.btc_json" />
       <item itemvalue="Python.basic_2" />
+      <item itemvalue="Python.basic_4" />
+      <item itemvalue="Python.figure_1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.figure_1" />
+        <item itemvalue="Python.basic_4" />
         <item itemvalue="Python.basic_2" />
         <item itemvalue="Python.Random_walker" />
         <item itemvalue="Python.btc_json" />
-        <item itemvalue="Python.Data_download" />
-        <item itemvalue="Python.Pygal_plot" />
       </list>
     </recent_temporary>
   </component>
@@ -431,7 +438,14 @@
       <option name="project" value="LOCAL" />
       <updated>1533119216315</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="vs code configure">
+      <created>1533191487448</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1533191487448</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -445,31 +459,30 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1966" y="15" width="1875" height="1092" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6104712" visible="true" weight="0.13574165" />
-      <window_info id="Structure" order="1" sideWeight="0.38952878" side_tool="true" visible="true" weight="0.13574165" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.74441344" visible="true" weight="0.11713191" />
+      <window_info id="Structure" order="1" sideWeight="0.2555866" side_tool="true" visible="true" weight="0.11713191" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49863163" weight="0.21465969" />
-      <window_info anchor="bottom" id="Python Console" order="6" sideWeight="0.49972633" weight="0.23246074" />
-      <window_info anchor="bottom" id="TODO" order="7" weight="0.3298647" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49808428" weight="0.24502617" />
+      <window_info anchor="bottom" id="Python Console" order="6" sideWeight="0.49972633" weight="0.59267014" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.20628272" />
       <window_info anchor="bottom" id="Docker" order="8" weight="0.32985386" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.25026178" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50136834" side_tool="true" weight="0.21884817" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.25026178" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5019157" side_tool="true" weight="0.24502617" />
       <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49863163" weight="0.20104712" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" sideWeight="0.5704607" weight="0.34154353" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.70530725" visible="true" weight="0.38806787" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" x="0" y="0" width="418" height="892" id="Documentation" order="5" sideWeight="0.4295393" side_tool="true" weight="0.39518335" />
-      <window_info anchor="right" id="SvgViewer" order="6" />
+      <window_info anchor="right" x="0" y="0" width="418" height="892" id="Documentation" order="5" sideWeight="0.29469272" side_tool="true" visible="true" weight="0.38806787" />
+      <window_info anchor="right" id="SvgViewer" order="6" weight="0.32950193" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -508,7 +521,8 @@
     <MESSAGE value="more practices" />
     <MESSAGE value="data visualization" />
     <MESSAGE value="delete" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete" />
+    <MESSAGE value="vs code configure" />
+    <option name="LAST_COMMIT_MESSAGE" value="vs code configure" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/practice_1.py">
@@ -659,19 +673,49 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic_2.py">
+    <entry file="file://$PROJECT_DIR$/Random_walker.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1583">
-          <caret line="89" column="20" lean-forward="true" selection-start-line="89" selection-start-column="20" selection-end-line="89" selection-end-column="20" />
+        <state relative-caret-position="439">
+          <caret line="70" column="77" selection-start-line="70" selection-start-column="77" selection-end-line="70" selection-end-column="77" />
+          <folding>
+            <element signature="e#1#32#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Random_walker.py">
+    <entry file="file://$PROJECT_DIR$/basic_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="59" column="11" lean-forward="true" selection-start-line="59" selection-start-column="11" selection-end-line="59" selection-end-column="11" />
+        <state relative-caret-position="307">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/IMDB-Movie-Data.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="1" selection-end-line="3" selection-end-column="19" />
           <folding>
-            <element signature="e#1#32#0" expanded="true" />
+            <element signature="e#1#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/613503072/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="4161" column="8" selection-start-line="4161" selection-start-column="8" selection-end-line="4161" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/figure_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="637">
+          <caret line="115" column="10" lean-forward="true" selection-start-line="115" selection-start-column="10" selection-end-line="115" selection-end-column="10" />
+          <folding>
+            <element signature="e#2#20#0" expanded="true" />
           </folding>
         </state>
       </provider>
