@@ -4,9 +4,18 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "python",
+            "label": "Run python",
             "type": "shell",
-            "command": "$pythonPath $fullFileName"
+            "command": "/home/forestriveral/anaconda3/envs/tensorflow/bin/python ${file}",
+             "group": {
+                 "kind": "build",
+                 "isDefault": true
+             },
+             "presentation": {
+                 "reveal": "always",
+                 "panel": "new",
+                 "focus": true
+             }
         }
     ]
 }
