@@ -117,3 +117,52 @@ import pandas as pd
 # x = np.linspace(-3, 3, 256)
 # print(x)
 
+# x = np.linspace(-3, 3, 50)
+# y = 0.1*x
+# plt.figure()
+# plt.plot(x, y, linewidth=10, zorder=1)
+# plt.ylim(-2, 2)
+# ax = plt.gca()
+# ax.spines['right'].set_color('none')
+# ax.spines['top'].set_color('none')
+# ax.spines['bottom'].set_position(('data', 0))
+# ax.spines['left'].set_position(('data', 0))
+# ax.xaxis.set_ticks_position('bottom')
+# ax.yaxis.set_ticks_position('left')
+#
+# # print(ax.get_xticklabels())
+# for label in ax.get_xticklabels() + ax.get_yticklabels():
+#     # print(label)
+#     label.set_fontsize(12)
+#     label.set_bbox(dict(facecolor='white', edgecolor='None', alpha=0.7, zorder=2))
+# plt.show()
+
+# T = np.arctan2(Y,X) # for color value
+
+# n = 12
+# X = np.arange(n)
+# Y1 = (1 - X / float(n)) * np.random.uniform(0.5, 1.0, n)
+# Y2 = (1 - X / float(n)) * np.random.uniform(0.5, 1.0, n)
+# plt.bar(X, +Y1, facecolor='#9999ff', edgecolor='white')
+# plt.bar(X, -Y2, facecolor='#ff9999', edgecolor='white')
+# plt.xlim(-.5, n)
+# plt.xticks(())
+# plt.ylim(-1.25, 1.25)
+# plt.yticks(())
+#
+# for x, y in zip(X, Y1):
+#     # print(x)
+#     # print(y)
+#     # ha: horizontal alignment
+#     # va: vertical alignment
+#     plt.text(x, y + 0.15, '%.2f' % y, ha='center', va='top',
+#              bbox=dict(facecolor='red', alpha=0.5))
+#
+# for x, y in zip(X, Y2):
+#     # ha: horizontal alignment
+#     # va: vertical alignment
+#     plt.text(x, -y - 0.05, '%.2f' % y, ha='center', va='top')
+#
+# plt.show()
+
+
