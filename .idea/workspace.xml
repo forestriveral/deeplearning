@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6fb47dd5-984f-4caa-9c15-3b7a5bb863af" name="Default" comment="null">
+    <list default="true" id="6fb47dd5-984f-4caa-9c15-3b7a5bb863af" name="Default" comment="ctrl">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Highs_lows.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/Highs_lows.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pygal_plot.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/Pygal_plot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Random_walker.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/Random_walker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/basic_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/basic_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/basic_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/basic_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btc_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/btc_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/chapter_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/chapter_9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dataset/IMDB-Movie-Data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/IMDB-Movie-Data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figure_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/figure_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figure_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/figure_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/figure_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/figure_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/practice_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/practice_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/practice_3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +63,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="csv" value="5" />
-          <entry key="gitignore" value="1" />
+          <entry key="gitignore" value="2" />
           <entry key="ipynb" value="1" />
           <entry key="json" value="4" />
           <entry key="learning_python" value="1" />
@@ -61,7 +77,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Git file" value="1" />
+          <entry key="Git file" value="2" />
           <entry key="IPNB" value="1" />
           <entry key="Image" value="1" />
           <entry key="JSON" value="4" />
@@ -74,64 +90,31 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="1359" />
-          <entry key="csv" value="13" />
+          <entry key="Python Console" value="1377" />
+          <entry key="csv" value="14" />
           <entry key="dummy" value="25" />
-          <entry key="py" value="16341" />
-          <entry key="txt" value="132" />
+          <entry key="py" value="16343" />
+          <entry key="txt" value="137" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="170" />
-          <entry key="Python" value="17700" />
+          <entry key="PLAIN_TEXT" value="176" />
+          <entry key="Python" value="17720" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/figure_1.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/figure_3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-              <folding>
-                <element signature="e#2#20#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/figure_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3322">
-              <caret line="156" column="1" selection-start-line="156" selection-start-column="1" selection-end-line="156" selection-end-column="1" />
-              <folding>
-                <element signature="e#1#19#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/figure_3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="566">
-              <caret line="162" selection-start-line="162" selection-end-line="162" />
+            <state relative-caret-position="564">
+              <caret line="162" lean-forward="true" selection-start-line="162" selection-end-line="162" />
               <folding>
                 <element signature="e#2#73#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dataset/IMDB-Movie-Data.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -159,22 +142,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/basic_2.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/basic_3.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/figure_2.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/practice_1.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/btc_json.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/practice_2.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Random_walker.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/basic_4.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/practice_3.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/figure_3.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Pygal_plot.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Highs_lows.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/chapter_9.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/figure_1.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test/basic_2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test/basic_3.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test/figure_2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test/practice_1.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test/btc_json.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test/practice_2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test/Random_walker.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test/basic_4.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test/practice_3.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test/figure_3.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test/Pygal_plot.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test/Highs_lows.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test/chapter_9.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test/figure_1.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/dataset/IMDB-Movie-Data.csv" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/basic_1.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/test/basic_1.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -192,11 +175,11 @@
         <option value="$PROJECT_DIR$/Data_download.py" />
         <option value="$PROJECT_DIR$/Highs_lows.py" />
         <option value="$PROJECT_DIR$/btc_json.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/basic_2.py" />
         <option value="$PROJECT_DIR$/basic_4.py" />
         <option value="$PROJECT_DIR$/figure_1.py" />
         <option value="$PROJECT_DIR$/figure_2.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/figure_3.py" />
       </list>
     </option>
@@ -231,7 +214,7 @@
             <path>
               <item name="deeplearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="deeplearning" type="462c0819:PsiDirectoryNode" />
-              <item name="dataset" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -246,7 +229,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$/.ssh/id_rsa" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="pyconsole" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -291,7 +274,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/basic_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -313,7 +296,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/basic_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -335,7 +318,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/figure_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/figure_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -357,7 +340,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/figure_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/figure_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -379,7 +362,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/figure_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/figure_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -401,7 +384,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/practice_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -502,7 +485,21 @@
       <option name="project" value="LOCAL" />
       <updated>1533346856102</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="null">
+      <created>1533347319681</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1533347319681</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ctrl">
+      <created>1533347484532</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1533347484532</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -516,9 +513,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1966" y="15" width="1875" height="1092" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6208113" visible="true" weight="0.11713191" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6208113" visible="true" weight="0.11713191" />
       <window_info id="Structure" order="1" sideWeight="0.37918872" side_tool="true" weight="0.11713191" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -527,19 +523,19 @@
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49808428" weight="0.2303665" />
-      <window_info anchor="bottom" id="Python Console" order="6" sideWeight="0.49972633" weight="0.41361257" />
+      <window_info anchor="bottom" id="Python Console" order="6" sideWeight="0.49972633" weight="0.42408377" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.20628272" />
       <window_info anchor="bottom" id="Docker" order="8" weight="0.32985386" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.25026178" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5019157" side_tool="true" weight="0.2" />
-      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49808428" visible="true" weight="0.2" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="12" sideWeight="0.49808428" visible="true" weight="0.20942408" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" sideWeight="0.5562827" visible="true" weight="0.41598248" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.55496687" visible="true" weight="0.4077723" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" x="0" y="0" width="418" height="892" id="Documentation" order="5" sideWeight="0.44371727" side_tool="true" visible="true" weight="0.41598248" />
+      <window_info anchor="right" x="0" y="0" width="418" height="892" id="Documentation" order="5" sideWeight="0.4450331" side_tool="true" visible="true" weight="0.4077723" />
       <window_info anchor="right" id="SvgViewer" order="6" sideWeight="0.49933246" weight="0.32950193" />
     </layout>
   </component>
@@ -583,24 +579,25 @@
     <MESSAGE value="matplotlib" />
     <MESSAGE value="numpy" />
     <MESSAGE value="null" />
-    <option name="LAST_COMMIT_MESSAGE" value="null" />
+    <MESSAGE value="ctrl" />
+    <option name="LAST_COMMIT_MESSAGE" value="ctrl" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/practice_1.py">
+    <entry file="file://$PROJECT_DIR$/test/practice_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="858">
           <caret line="39" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice_2.py">
+    <entry file="file://$PROJECT_DIR$/test/practice_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2794">
           <caret line="129" selection-start-line="129" selection-end-line="129" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice_3.py">
+    <entry file="file://$PROJECT_DIR$/test/practice_3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="97">
           <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
@@ -610,7 +607,7 @@
     <entry file="file://$PROJECT_DIR$/answers/UPDATES.md" />
     <entry file="file://$PROJECT_DIR$/answers/chapter_09/dog.py" />
     <entry file="file://$PROJECT_DIR$/answers/chapter_09/electric_car.py" />
-    <entry file="file://$PROJECT_DIR$/chapter_9.py">
+    <entry file="file://$PROJECT_DIR$/test/chapter_9.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="56" column="60" lean-forward="true" selection-start-line="56" selection-start-column="60" selection-end-line="56" selection-end-column="60" />
@@ -634,14 +631,14 @@
     <entry file="file://$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_10.py">
+    <entry file="file://$PROJECT_DIR$/test/chapter_10.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic_3.py">
+    <entry file="file://$PROJECT_DIR$/test/basic_3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
@@ -671,7 +668,7 @@
     <entry file="file://$PROJECT_DIR$/dataset/die_visual.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pygal_plot.py">
+    <entry file="file://$PROJECT_DIR$/test/Pygal_plot.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="344">
           <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
@@ -697,7 +694,7 @@
       </provider>
     </entry>
     <entry file="file:///media/forestriveral/Files/LiHang/Python(Book)/Python从入门到实践习题/源代码文件/chapter_16/btc-master (16.2)/btc_close_2017.ipynb" />
-    <entry file="file://$PROJECT_DIR$/btc_json.py">
+    <entry file="file://$PROJECT_DIR$/test/btc_json.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
           <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
@@ -710,31 +707,28 @@
     <entry file="file://$PROJECT_DIR$/.vscode/settings.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic_1.py">
+    <entry file="file://$PROJECT_DIR$/test/basic_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="861">
           <caret line="122" column="28" selection-start-line="122" selection-start-column="28" selection-end-line="122" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Highs_lows.py">
+    <entry file="file://$PROJECT_DIR$/test/Highs_lows.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Random_walker.py">
+    <entry file="file://$PROJECT_DIR$/test/Random_walker.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="439">
           <caret line="70" column="77" selection-start-line="70" selection-start-column="77" selection-end-line="70" selection-end-column="77" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic_2.py">
+    <entry file="file://$PROJECT_DIR$/test/basic_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
           <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
@@ -748,10 +742,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic_4.py">
+    <entry file="file://$PROJECT_DIR$/test/basic_4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="3" column="19" selection-start-line="1" selection-end-line="3" selection-end-column="19" />
+          <folding>
+            <element signature="e#1#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -783,7 +780,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/figure_1.py">
+    <entry file="file://$PROJECT_DIR$/test/figure_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
@@ -793,7 +790,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/figure_2.py">
+    <entry file="file://$PROJECT_DIR$/test/figure_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3322">
           <caret line="156" column="1" selection-start-line="156" selection-start-column="1" selection-end-line="156" selection-end-column="1" />
@@ -803,20 +800,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/figure_3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="162" selection-start-line="162" selection-end-line="162" />
-          <folding>
-            <element signature="e#2#73#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dataset/IMDB-Movie-Data.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/figure_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="162" lean-forward="true" selection-start-line="162" selection-end-line="162" />
+          <folding>
+            <element signature="e#2#73#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
